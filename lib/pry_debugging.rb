@@ -1,4 +1,4 @@
-def num_two(sum)
+def plus_two(sum)
   3 + 2
   5
 end  
